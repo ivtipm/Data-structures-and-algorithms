@@ -13,6 +13,9 @@
 8. Хеш-таблицы. Хеширование.
 9. Графы. Алгоритмы на графах.
 
+![](DataStructures.drawio.png)
+
+![](bigO_data_structures.png)
 
 # Ссылки
 1. У. Топп, У. Форд. Структуры данных в С++: Пер. с англ. – М.: ЗАО «Издательство БИНОМ», – 816 с.
@@ -20,4 +23,5 @@
 
 
 **Дополнительно**
+- [Complexity_Cheatsheet.pdf](https://static1.squarespace.com/static/52b30f7ae4b067ba989438d4/t/5a7bb70724a69414063b96f4/1518057223974/Complexity+Cheatsheet.pdf)
 - Д. Кнут -  Искусство программирования
