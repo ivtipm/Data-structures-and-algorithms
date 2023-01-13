@@ -1,6 +1,6 @@
 # День 1
 ## Лекции.
-1. Повторение основ С++. Массивы статические и динамические, функции, передача значений по ссылке и по значению, заголовочные и cpp файлы, текстовые файлы. [raw.githubusercontent.com/VetrovSV/OOP/master/OOP_StudBook.pdf](https://raw.githubusercontent.com/VetrovSV/OOP/master/OOP_StudBook.pdf)
+1. Повторение основ С++. Указатели, массивы статические и динамические, экспоненциальная запись числа, функции, передача значений по ссылке и по значению, заголовочные и cpp файлы, текстовые файлы. [raw.githubusercontent.com/VetrovSV/OOP/master/OOP_StudBook.pdf](https://raw.githubusercontent.com/VetrovSV/OOP/master/OOP_StudBook.pdf)
 2. Отладка.
 3. Рекурсия. Рекурсивная и теминальная ветви.
 4. Сортировки. [[Источники](https://github.com/ivtipm/Data-structures-and-algorithms#%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8),1,3]
