@@ -51,7 +51,8 @@ plt.legend(loc = 'best')
 ## Лекции.
 1. Шаблонные функции и классы. [OOP_StudBook.pdf#2.3](https://raw.githubusercontent.com/VetrovSV/OOP/master/OOP_StudBook.pdf#section.2.3), [OOP_StudBook.pdf#4.4](https://raw.githubusercontent.com/VetrovSV/OOP/master/OOP_StudBook.pdf#section.4.4)
 2. АТД. Стек. Очередь. Дек. Очередь с приоритетами. [1, глава 5]
-3. Стековый калькулятор. [1, глава 5]
+3. Множество. 
+4. Стековый калькулятор. [1, глава 5]
 
 ## Практики
 Используйте язык программирования С++. 
