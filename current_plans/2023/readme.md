@@ -1,10 +1,12 @@
 # День 1
+18 января
 ## Лекции.
 1. Повторение основ С++. Указатели, массивы статические и динамические, экспоненциальная запись числа, функции, передача значений по ссылке и по значению, заголовочные и cpp файлы, текстовые файлы. [raw.githubusercontent.com/VetrovSV/OOP/master/OOP_StudBook.pdf](https://raw.githubusercontent.com/VetrovSV/OOP/master/OOP_StudBook.pdf)
 2. Автоматическое тестирование. Assert; [raw.githubusercontent.com/VetrovSV/OOP/master/OOP_StudBook.pdf](https://raw.githubusercontent.com/VetrovSV/OOP/master/OOP_StudBook.pdf#subsection.2.2.6)
 3. Отладка.
 4. Рекурсия. Рекурсивная и теминальная ветви.
 5. Сортировки. [[Источники](https://github.com/ivtipm/Data-structures-and-algorithms#%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8),1,3]
+6. Списки. [1, глава 9]
 
 ## Практики
 Используйте язык программирования С++. 
@@ -42,3 +44,27 @@ plt.xlabel('размер массива')
 plt.ylabel('среднее время (ед. измер)')
 plt.legend(loc = 'best')
 ```
+
+
+# День 2
+19 января
+## Лекции.
+1. Шаблонные функции и классы. [OOP_StudBook.pdf#2.3](https://raw.githubusercontent.com/VetrovSV/OOP/master/OOP_StudBook.pdf#section.2.3), [OOP_StudBook.pdf#4.4](https://raw.githubusercontent.com/VetrovSV/OOP/master/OOP_StudBook.pdf#section.4.4)
+2. АТД. Стек. Очередь. Дек. Очередь с приоритетами. [1, глава 5]
+3. Стековый калькулятор. [1, глава 5]
+
+## Практики
+Используйте язык программирования С++. 
+Документируйте код, указывайте автора, пишите поясняющие комментарии, не пишите весь код в одном файле.
+
+0. Защита работ
+1. Реализуйте шаблонный класс Стек
+2. Напишите тесты для класса
+3. Реализуйте калькулятор для префиксных выражений 
+
+
+# День 3
+21 января, 5-6 пары
+## Практика. Защита работ
+## Зачёт. Собеседование
+## Лекции.
