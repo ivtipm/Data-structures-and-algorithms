@@ -44,7 +44,7 @@ plt.xlabel('размер массива')
 plt.ylabel('среднее время (ед. измер)')
 plt.legend(loc = 'best')
 ```
-
+Для построения графиков можно использовать среду [google colaboratory](https://colab.research.google.com/) (требуется войти в аккаунт google).
 
 # День 2
 19 января
