@@ -21,7 +21,8 @@
 # Ссылки
 1. У. Топп, У. Форд. Структуры данных в С++: Пер. с англ. – М.: ЗАО «Издательство БИНОМ», – 816 с.
 2. Ахо А.В. Структуры данных и алгоритмы / А.В. Ахо, Д. Хопкрофт, Д.Д. Ульман. – Москва: Вильямс, 2003. – 384с.: ил.
-3. Narasimha Karumanchi. Data structures and algorithms made easy, 2010 
+3. Narasimha Karumanchi. Data structures and algorithms made easy, 2010
+4. https://academy.yandex.ru/handbook/algorithms
 
 
 **Дополнительно**
