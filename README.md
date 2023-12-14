@@ -32,4 +32,5 @@
 
 **Дополнительно**
 - [Complexity_Cheatsheet.pdf](https://static1.squarespace.com/static/52b30f7ae4b067ba989438d4/t/5a7bb70724a69414063b96f4/1518057223974/Complexity+Cheatsheet.pdf)
+- https://hackingcpp.com/cpp/cheat_sheets.html#hfold2a — обзор контейнеров C++
 - Д. Кнут -  Искусство программирования
