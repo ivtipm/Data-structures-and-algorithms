@@ -6,7 +6,8 @@
 3. Отладка.
 4. Рекурсия. Рекурсивная и теминальная ветви.
 5. Сортировки. [[Источники](https://github.com/ivtipm/Data-structures-and-algorithms#%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8),1,3]
-6. Списки. [1, глава 9]
+   - Слайды: https://docs.google.com/presentation/d/1YEXijE-L6xtoXNAgLldPDsw_skUCQwc7e4XA5dC0obk/edit?usp=sharing 
+7. Списки. [1, глава 9]
 
 ## Практики
 Используйте язык программирования С++. 
