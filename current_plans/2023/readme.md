@@ -85,6 +85,7 @@ plt.legend(loc = 'best')
 
 Вывод
 <details>
+
 ```text
 В
 день
@@ -106,6 +107,7 @@ plt.legend(loc = 'best')
 своего
 существования.
 ```
+
 <details>
 
 # День 3
