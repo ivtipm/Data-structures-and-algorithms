@@ -85,7 +85,7 @@ plt.legend(loc = 'best')
 
 Вывод
 <details>
-```
+```text
 В
 день
 тридцатилетия
