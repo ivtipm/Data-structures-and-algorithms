@@ -22,7 +22,7 @@
 
 
 # План
-## Лекция 1. Сложность алгоритмов. Рекурсия. Алгоритмы поиска
+## Лекция 1. Обзор курса. Сложность алгоритмов.
 Слайды: https://docs.google.com/presentation/d/1ofbDxk9cbT4ABdCmGFqftz3u166DV1KkrJGU_Z7E6Kg/edit?usp=sharing
 
 ### Задание 2. Размер стека вызовов.
@@ -96,3 +96,6 @@ plt.legend(loc = 'best')
 
 ### Задание 2. Анализ сложности алгоритма.
 [tasks/task_s1_alg_analysis](../tasks/task_s1_alg_analysis.md)
+
+
+## Лекция 2. Рекурсия. Алгоритмы поиска
