@@ -17,3 +17,12 @@ T[] elements = new T[size]; // Ошибка!
 **Используйте ограничения на обобщённый тип**\
 Это поможет использовать некоторые дополнительные методы для обобщённых типов. Например `<E extends Comparable>` означает, что обобщённый тип `E` является наследником от `Comparable`. Числовые типы подходят под это условие. 
 Можно использовать метод compareTo(item) для сравнения значений.
+
+**Измерение времени работы кода**
+```java
+long t0 = System.currentTimeMillis();
+// some code
+long t1 = System.currentTimeMillis();
+
+System.out.println( "dt = %d milliseconds".formatted(t1-t0));
+```
