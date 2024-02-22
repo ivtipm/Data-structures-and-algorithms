@@ -88,6 +88,7 @@ plt.legend(loc = 'best')
 ```
 Для построения графиков можно использовать среду [google colaboratory](https://colab.research.google.com/) (требуется войти в аккаунт google).
 
+См. [подсказки для Java](java_hints.md)
 
 
 ### Задание 2. Анализ сложности алгоритма.
