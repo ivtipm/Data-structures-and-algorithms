@@ -7,7 +7,10 @@
 import java.util.Arrays;
 Integer[] arr = new Integer[N];
 // ...
-Arrays.sort( arr );
+Arrays.sort( arr );     // Сортировка по возрастанию
+
+// CСортировка по убыванию (только для массива из ссылочного типа, где реализован метод сравнения)
+Arrays.sort( arr, Collections.reverseOrder());
 ```
 
 **Обобщенные типы (Generics)**\
