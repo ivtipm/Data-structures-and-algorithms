@@ -2,6 +2,14 @@
 **Массивы**\
 В Java максимальный размер массивов и коллекций ограничен максимальным значением типа int - $2^{31}-1$
 
+Сортировка
+```java
+import java.util.Arrays;
+Integer[] arr = new Integer[N];
+// ...
+Arrays.sort( arr );
+```
+
 **Обобщенные типы (Generics)**\
 Коротко про обобщённые типы:
 https://docs.google.com/presentation/d/14Y8LWzVeChUyjaKhb6rgELdWJR58B2YGUIukeZ-e3PU/edit#slide=id.g1f21a3ef6c3_0_0
