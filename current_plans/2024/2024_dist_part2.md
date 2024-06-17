@@ -1,7 +1,8 @@
 # САОД
 
 # Лекции 1. Повторение. Деревья.
-- Адгоритмы. Сложность алгоритмов. 
+- C++: [OOP StudBook](https://raw.githubusercontent.com/VetrovSV/OOP/master/OOP_StudBook_upd.pdf)
+- Алгоритмы. Сложность алгоритмов. 
 https://docs.google.com/presentation/d/1ofbDxk9cbT4ABdCmGFqftz3u166DV1KkrJGU_Z7E6Kg/edit?usp=sharing
 - Деревья
 https://docs.google.com/presentation/d/13iV3yhsT4afPxKIsdVpDKxIU_fr4u2gPb4MdQ7VP51E/edit?usp=sharing
