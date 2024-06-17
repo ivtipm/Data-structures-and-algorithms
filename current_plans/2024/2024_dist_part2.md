@@ -1,10 +1,11 @@
 # САОД
 
 # Лекции 1. Повторение. Деревья.
-
+- Адгоритмы. Сложность алгоритмов. 
+https://docs.google.com/presentation/d/1ofbDxk9cbT4ABdCmGFqftz3u166DV1KkrJGU_Z7E6Kg/edit?usp=sharing
+- Деревья
 https://docs.google.com/presentation/d/13iV3yhsT4afPxKIsdVpDKxIU_fr4u2gPb4MdQ7VP51E/edit?usp=sharing
 
-https://docs.google.com/presentation/d/1YEXijE-L6xtoXNAgLldPDsw_skUCQwc7e4XA5dC0obk/edit?usp=sharing
 
 
 # Задание 1
@@ -17,9 +18,9 @@ https://docs.google.com/presentation/d/1YEXijE-L6xtoXNAgLldPDsw_skUCQwc7e4XA5dC0
 - Реализовать рекурсивные функции обхода деревьев (либо LNR, RNL); 
     - печать узлов дерева 
     - заполнение динамического массива
-- Реализовать шаблонный класс BinSTree, без метода удаления узла, и показать
-работу его методов (вставка данных, поиск данных, очистка всего дерева, глубина дерева, количество узлов в дереве), в частности, печать узлов для методов обхода дерева.
-
+- Реализовать шаблонный класс BinSTree, без метода удаления узла, и показать работу его методов (вставка данных, поиск данных, очистка всего дерева, глубина дерева, количество узлов в дереве), в частности, печать узлов для методов обхода дерева.
+- Дополнительно:
+    - Функция удаление узла
 
 
 # Задание 2
