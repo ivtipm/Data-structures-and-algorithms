@@ -3,7 +3,7 @@
 
 ### [Очное 2024, Часть 2. Осень](current_plans/2024/2024_fall.md)
 ### [Очное 2024, Часть 1. Весна](current_plans/2024/2024_spring.md)
-
+git
 #### [Заочное 2024. Часть 2. Весна](https://github.com/ivtipm/Data-structures-and-algorithms/blob/main/current_plans/2024/2024_dist_part2.md)
 ##### [Очное 2023, Часть 2. Осень](current_plans/2023/2023_fall.md)
 [Заочное, 2023-2024 Зима](current_plans/2023/readme.md)
