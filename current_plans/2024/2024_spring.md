@@ -140,7 +140,7 @@ plt.legend(loc = 'best')
 
 ### Задание 2. Анализ сложности алгоритма.
 Привидите ссылку на это задание в главной файле программы, текст задания.
-[tasks/task_s1_alg_analysis](../tasks/task_s1_alg_analysis.md)
+[tasks/task_s1_alg_analysis](../../tasks/task_s1_alg_analysis.md)
 
 
 
