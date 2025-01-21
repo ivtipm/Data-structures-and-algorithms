@@ -1,12 +1,12 @@
 # Структуры и алгоритмы обработки данных
 
-
+### [Очное 2025, Часть 1. Осень](current_plans/2025_part1.md)
 ### [Очное 2024, Часть 2. Осень](current_plans/2024/2024_part_2.md)
 ### [Очное 2024, Часть 1. Весна](current_plans/2024/2024_part_1.md)
 
 #### [Заочное 2024. Часть 2. Весна](https://github.com/ivtipm/Data-structures-and-algorithms/blob/main/current_plans/2024/2024_dist_part2.md)
 ##### [Очное 2023, Часть 2. Осень](current_plans/2023/2023_fall.md)
-[Заочное, 2023-2024 Зима](current_plans/2023/readme.md)
+[Заочное, 2023-2024 Осень](current_plans/2023/readme.md)
 
 
 # План
