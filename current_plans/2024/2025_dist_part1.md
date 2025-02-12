@@ -5,9 +5,8 @@
 2. Автоматическое тестирование. Assert; [raw.githubusercontent.com/VetrovSV/OOP/master/OOP_StudBook.pdf](https://raw.githubusercontent.com/VetrovSV/OOP/master/OOP_StudBook.pdf#subsection.2.2.6)
 3. Отладка.
 4. Рекурсия. Рекурсивная и терминальная ветви.
-5. Сортировки. [[Источники](https://github.com/ivtipm/Data-structures-and-algorithms#%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8),1,3]
-   - Слайды: https://docs.google.com/presentation/d/1YEXijE-L6xtoXNAgLldPDsw_skUCQwc7e4XA5dC0obk/edit?usp=sharing 
-7. Списки. [1, глава 9]
+5. [Оценка сложности. Алгоритмы](https://docs.google.com/presentation/d/1ofbDxk9cbT4ABdCmGFqftz3u166DV1KkrJGU_Z7E6Kg/edit#slide=id.p). [Поиск. Сортировки](https://docs.google.com/presentation/d/1D7xYy9djch7uxa02QJVeQBJpKmhbWACSAhQ7ALbm8Vg/edit#slide=id.p). [[Источники](https://github.com/ivtipm/Data-structures-and-algorithms#%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8),1,3]
+7. [Списки](https://docs.google.com/presentation/d/1r-ZLt9NaR27Mye14m09YsyAFaPFAYlvOsd17qAr_cnY/edit#slide=id.g2c20ee23ca1_0_62). [1, глава 9]
 
 Задания: https://docs.google.com/document/d/15TVDKgrKid6SX0cZeROzqIdLHWGQGLGc_9DpESdL9Gc/edit?usp=sharing
 
