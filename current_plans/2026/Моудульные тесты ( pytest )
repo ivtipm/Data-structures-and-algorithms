@@ -1,0 +1,64 @@
+Модульные тесты ( pytest )
+    - сравнение float значений (pytest.approx)
+
+Списки vs ndarray (numpy)
+    ndarray быстрее чем списки
+    numpy быстрая потому, что скомпилирована и написана на С
+    ndarray и numpy имеют векторные операции
+    элементы имеют один тип ndarray
+    
+
+Генераторы списков
+
+Google Colab -- облачная IDE от Google (Jupyter Notebook)
+  - можно запускать код на CPU \ GPU (TPU)
+  -  
+
+Аргументы CLI
+
+Pattern matching (сопоставление с образцом)
+```py
+match выражение :
+   case значение: ...
+   case перем1 if условие : ...
+   case val1 | val2 : ...
+   case _ : .. # аналог else
+```
+
+
+
+
+
+
+
+```py
+def simple_generator():
+    """выдаёт числа от 0 до 9"""
+    for i in range(10):
+        yield i
+        # yield ~ return прерыващий функцию до следующего выполнения 
+
+
+
+def fibonacci_generator(n: int):
+    """
+    @param: n -- количество чисел Фибоначчи """
+    # 0 1 1 2 3 5 8 13
+    f1 = 0
+    f2 = 1
+    tmp = None
+    for i in range(n):
+        yield f1
+        tmp = f1
+        f1 = f2
+        f2 = tmp + f1
+        
+
+assert    list( fibonacci_generator(1) ) == [0]
+assert    list( fibonacci_generator(2) ) == [0,1]
+
+assert    list( fibonacci_generator(10) ) == [0,1,1, 2,3,5, 8,13,21, 34]
+        
+for x in fibonacci_generator(5):
+   print(x)   
+```
