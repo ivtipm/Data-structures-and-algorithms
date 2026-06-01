@@ -2,11 +2,26 @@
 #include <cstddef>
 #include <cstdlib>
 #include <format>
+#include <math.h>
 
 #include <iostream>
 
-
 using namespace std;
+
+
+// Объявление функции:
+/// функция выводит массив arr размера n на экран, по 10 элементов на строку
+void print_array( double* arr, size_t n ) {
+    // void  - тип возвращаемого значения, void -- пустой тип, используется тогда, когда функция ничего не возвращает
+    // arr, n -- формальные параметры функции
+
+    for ( int i = 0; i < n; i++){
+        cout << format("{:4.1f} ", arr[i]);
+
+        if ( i % 10 == 9 ) cout << "\n";
+    }
+
+}
 
 // Главная функция
 int main()      // <- заголовок функции
@@ -32,12 +47,17 @@ int main()      // <- заголовок функции
                 arr2[i] = rand() % 100;     // -> [0, 99]
             }
 
-    // вывод массива на экран
-    for ( int i = 0; i < N; i++){
-        cout << format("{:4.1f} ", arr2[i]);
+    // вызов функции
+    print_array(arr2, N);
 
-        if ( i % 10 == 9 ) cout << "\n";
-    }
+    // заменим элемент массива его корнем
+     for ( int i = 0; i < N; i++){
+         arr2[i] = sqrt(arr2[i]);
+     }
+
+     cout << "\nМассив после преобразования:\n";
+     // вызов функции
+     print_array(arr2, N);
 
     // освобождение памяти
     delete[] arr2;
